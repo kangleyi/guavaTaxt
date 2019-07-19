@@ -1,0 +1,4 @@
+baidu:
+  server:
+    name: baidu
+    apis: https://www.baidu.com/

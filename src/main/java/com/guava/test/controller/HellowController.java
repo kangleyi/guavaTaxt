@@ -25,6 +25,7 @@ public class HellowController {
 
     @Autowired
     private UserService userService;
+
     /**
      *  传统方式
      */
